@@ -1,0 +1,24 @@
+{
+    "name": "bruceskills/extract-ocr-php",
+    "type": "library",
+    "description": "Essa SDK foi construída devido a necessidade de leitura de imagens utilizando OCR Tesseract do Google. Foi publicada com a ideia de que possa ser útil para outras pessoas. Este repositório (e, consequentemente, seu dono) não possuem qualquer vínculo com o Google.",
+    "license": "MIT",
+    "keywords": ["ocr php example", "ocr php demo", "ocr php github", "ocr php tutorial", "ocr php google"],
+    "require": {
+        "php": "^7.0",
+        "ext-json": "*"
+    },
+    "authors": [
+        {
+            "name": "Bruno César",
+            "email": "bruno@agenciaskills.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "OCR\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
