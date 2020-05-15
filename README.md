@@ -1,5 +1,9 @@
 # Gerador OCR com PHP
 
+[![Latest Stable Version](https://poser.pugx.org/bruceskills/extract-ocr-php/v)](//packagist.org/packages/bruceskills/extract-ocr-php)
+[![License](https://poser.pugx.org/bruceskills/extract-ocr-php/license)](//packagist.org/packages/bruceskills/extract-ocr-php)
+[![Total Downloads](https://poser.pugx.org/bruceskills/extract-ocr-php/downloads)](//packagist.org/packages/bruceskills/extract-ocr-php)
+
 ### Observação
 Essa SDK foi construída devido a necessidade de leitura de imagens utilizando OCR Tesseract do Google. Foi publicada com a ideia de que possa ser útil para outras pessoas. Este repositório (e, consequentemente, seu dono) não possuem qualquer vínculo com o Google.
 

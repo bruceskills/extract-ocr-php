@@ -2,7 +2,7 @@
 
 /**
  * @author Bruno César <bruno@agenciaskills.com.br>
- * @license https://github.com/bruceskills/ocr-extract-php/blob/master/LICENSE (MIT License)
+ * @license https://github.com/bruceskills/extract-ocr-php/blob/master/LICENSE (MIT License)
  */
 
 namespace OCR;
